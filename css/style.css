@@ -11,8 +11,8 @@ h1 {
 }
 
 div{
-    height: 150px;
     padding: 25px;
+    min-height: 150px;
 
 }
 
@@ -47,6 +47,14 @@ img{
     background-color: #FFFF00;
     text-align: right;
     color: #000000;
+    
+}
+
+#yellow p{
+    color: #000000;
+}
+
+#yellow h2{
     text-shadow: 4px 2px 2px #c7e2c7;
 }
 
@@ -55,7 +63,7 @@ img{
     text-align: left;
 }
 
-#footer p{
+footer p{
     text-align: center;
     padding-bottom: 10px;
     padding-right: 10px;
