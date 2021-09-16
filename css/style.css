@@ -18,7 +18,7 @@ div{
 
 h2 {
     font-size: 32px;
-    text-shadow: 4px 2px 2px #808080;
+    text-shadow: 4px 4px 2px #808080;
 }
 
 p {
@@ -46,7 +46,6 @@ img{
 #yellow{
     background-color: #FFFF00;
     text-align: right;
-    color: #000000;
     
 }
 
@@ -55,8 +54,8 @@ img{
 }
 
 #yellow h2{
-    color: :#000000;
-    text-shadow: 4px 2px 2px #c7e2c7;
+    color: #000000;
+    text-shadow: 4px 4px 2px #c7e2c7;
 }
 
 #green{
